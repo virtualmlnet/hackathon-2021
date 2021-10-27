@@ -8,7 +8,7 @@ Welcome to the 2021 Virtual ML .NET Hackathon!
 ## Get Started
 
 <!-- - [Sign up](https://aka.ms/mlnet-hack-signup) -->
-- [Create a project](https://github.com/virtualmlnet/hackathon-2020/issues/new?assignees=&labels=&template=idea.md&title=ML.NET+Hackathon+Idea)
+- [Create a project](https://github.com/virtualmlnet/hackathon-2021/issues/new?assignees=&labels=&template=idea.md&title=ML.NET+Hackathon+Idea)
 
 ## Schedule
 
