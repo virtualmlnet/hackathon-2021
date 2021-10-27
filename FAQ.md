@@ -4,23 +4,27 @@ See the list below of commonly asked questions.
 
 ## When will the event take place?
 
-The event will take place from November 12-17, 2021.
+The event will take place from November 12-19, 2021.
 
-<!-- ## How do I sign up?
+| Date | Activity | Description |
+| --- | --- | --- |
+| November 12  | Kickoff | Kick off stream ([Twitch](https://www.twitch.tv/virtualmlnet) / [YouTube](https://www.youtube.com/watch?v=CoRcBV_y5E0))
+| November 12-17 | Hacking | Use this time to hack on your idea
+| November 17 (11:59 PM PDT) | Final submissions due | You're done!
+| November 19  | Winners announced | Congratulations! ([Twitch](https://www.twitch.tv/virtualmlnet) / [YouTube](https://youtu.be/I3tpA9t5e5w))
 
-You can sign up by filling out the [signup form](https://aka.ms/mlnet-hack-signup). -->
 
 ## How do I create a project?
 
-Once you've signed up, you can create a project by [submitting an issue to the repository](https://github.com/virtualmlnet/hackathon-2020/issues/new?assignees=&labels=&template=idea.md&title=ML.NET+Hackathon+Idea).
+Once you've joined the [hackathon Discord channel](https://aka.ms/mlnet-hackathon-discord), create a project by [submitting an issue to the repository](https://github.com/virtualmlnet/hackathon-2020/issues/new?assignees=&labels=&template=idea.md&title=ML.NET+Hackathon+Idea).
 
 ## Can I bring an existing project?
 
 No. Only new projects started on November 12 will be considered for submission.
 
-## Do I need to be in a team?
+## Do I need to be on a team?
 
-The short answer is yes. Like most projects, the team is intended to bring together people that want to solve a similar problem. Although we encourage collaboration between participants, we're also happy to have teams of one person.
+Although we encourage collaboration between participants, we're also happy to have teams of one person. Like most projects, the team is intended to bring together people that want to solve a similar problem. 
 
 ## What types of projects can I work on?
 
@@ -31,7 +35,7 @@ Though this list is not exhaustive, it may provide some guidance:
 - End-user applications (train and deploy machine learning models)
 - Other (trainings, videos, articles)
 
-For some ideas, see the [project ideas page](project-ideas.md).
+For some ideas, see the [project ideas page](project-ideas.md) or last year's [submissions](https://github.com/virtualmlnet/hackathon-2020/tree/main/submissions).
 
 ## Do I have to use ML.NET?
 
@@ -43,7 +47,7 @@ Submissions are due November 17, 2021 at 11:59 PM PDT
 
 ## What do I need to submit?
 
-- 1-3 minute video
+- 1-3 minute video showcasing your project.
 - Source code.
 
 > The source code does not have to run in order to be submitted.

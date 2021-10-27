@@ -24,4 +24,6 @@ Use this document to give you ideas of the types of problems you can solve using
 - Facial recognition to detect mood 
 - Social media post sentiment analysis
 
+You can also reference last year's [submissions](https://github.com/virtualmlnet/hackathon-2020/tree/main/submissions).
+
 Ready to get started? [Create a project](https://github.com/virtualmlnet/hackathon-2020/issues/new?assignees=&labels=&template=idea.md&title=ML.NET+Hackathon+Idea).

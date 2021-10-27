@@ -2,12 +2,12 @@
 
 Welcome to the 2021 Virtual ML .NET Hackathon!
 
-**When:** November 12-17, 2021  
+**When:** November 12-19, 2021  
 **Where:** Virtual
 
 ## Get Started
 
-<!-- - [Sign up](https://aka.ms/mlnet-hack-signup) -->
+- [Join the Virtual ML.NET Hackathon Discord channel](https://aka.ms/mlnet-hackathon-discord). This will be the main form of direct communication. 
 - [Create a project](https://github.com/virtualmlnet/hackathon-2021/issues/new?assignees=&labels=&template=idea.md&title=ML.NET+Hackathon+Idea)
 
 ## Schedule
@@ -53,4 +53,4 @@ By participating in this event, you agree to the [code of conduct](code-of-condu
 
 ## Questions?
 
-Join the `#hackathon` room in the [Virtual ML.NET Discord](https://aka.ms/virtual-mlnet-community-discord).
+Join the `#hackathon` room in the [Virtual ML.NET Discord](https://aka.ms/mlnet-hackathon-discord).
