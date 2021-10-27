@@ -53,4 +53,4 @@ By participating in this event, you agree to the [code of conduct](code-of-condu
 
 ## Questions?
 
-Join the `#hackathon` room in the [Virtual ML.NET Discord](https://aka.ms/mlnet-hackathon-discord).
+Join the `#hackathon` channel in the [Virtual ML.NET Discord](https://aka.ms/mlnet-hackathon-discord).
