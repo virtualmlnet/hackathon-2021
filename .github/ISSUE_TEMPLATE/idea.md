@@ -23,7 +23,3 @@ Description of what you want to achieve and what problem you're trying to solve
 **Are you looking for team members?**
 - [ ] Yes
 - [ ] No
-
-**Would you like to have a mentor assigned to your team?**
-- [ ] Yes
-- [ ] No
