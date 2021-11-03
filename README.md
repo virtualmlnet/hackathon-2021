@@ -12,7 +12,7 @@ Welcome to the 2021 Virtual ML .NET Hackathon!
 
 ## Schedule
 
-To accomodate different locations, this year we'll have two kick-offs:
+To accomodate different locations, this year we'll have two kickoff streams:
 
 - 19:00 UTC +11
 - 16:00 UTC -4
