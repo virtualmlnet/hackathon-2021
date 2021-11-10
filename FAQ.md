@@ -11,7 +11,7 @@ The event will take place from November 12-19, 2021.
 | November 12  | Kickoff | Kick off stream ([Twitch](https://www.twitch.tv/virtualmlnet) / [YouTube](https://www.youtube.com/watch?v=CoRcBV_y5E0))
 | November 12-17 | Hacking | Use this time to hack on your idea
 | November 17 (11:59 PM PDT) | Final submissions due | You're done!
-| November 19  | Winners announced | Congratulations! ([Twitch](https://www.twitch.tv/virtualmlnet) / [YouTube](https://youtu.be/I3tpA9t5e5w))
+| November 19  | Top projects announced | Congratulations! ([Twitch](https://www.twitch.tv/virtualmlnet) / [YouTube](https://youtu.be/I3tpA9t5e5w))
 
 
 ## How do I create a project?
