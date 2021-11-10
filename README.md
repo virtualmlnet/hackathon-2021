@@ -22,7 +22,7 @@ To accomodate different locations, this year we'll have two kickoff streams:
 | November 12 (19:00 UTC +11 & 16:00 UTC-4)  | Kickoff | Kick off stream ([Twitch](https://www.twitch.tv/virtualmlnet) / [YouTube](https://www.youtube.com/watch?v=CoRcBV_y5E0))
 | November 12-17 | Hacking | Use this time to hack on your idea
 | November 17 (11:59 PM PDT) | Final submissions due | You're done!
-| November 19  | Winners announced | Congratulations! ([Twitch](https://www.twitch.tv/virtualmlnet) / [YouTube](https://youtu.be/I3tpA9t5e5w))
+| November 19  | Top projects announced | Congratulations! ([Twitch](https://www.twitch.tv/virtualmlnet) / [YouTube](https://youtu.be/I3tpA9t5e5w))
 
 ## Stream Links
 
