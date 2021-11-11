@@ -47,7 +47,7 @@ For final project submissions, send a pull request in the Submissions folder wit
 
 ## Useful resources
 
-- [Rules](rules.md)
+- [Rules](Rules.md)
 - [Datasets](datasets.md)
 - [Project ideas](project-ideas.md)
 - [Frequently asked questions (FAQs)](FAQ.md)
