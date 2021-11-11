@@ -10,7 +10,7 @@ Welcome to the 2021 Virtual ML .NET Hackathon!
 - [Join the Virtual ML.NET Hackathon Discord channel](https://aka.ms/mlnet-hackathon-discord). This will be the main form of direct communication. 
 - [Create a project](https://github.com/virtualmlnet/hackathon-2021/issues/new?assignees=&labels=&template=idea.md&title=ML.NET+Hackathon+Idea)
 
-This year, we're not having 
+This year, we're not having an introduction to Machine Learning session. If you're new to ML.NET, check out this workshop [Let's Learn ML.NET](https://www.youtube.com/watch?v=sBHRd6e5ZBY) and follow along with this [Microsoft Learn module](https://docs.microsoft.com/learn/modules/predictive-maintenance-model-builder/)
 
 ## Schedule
 
