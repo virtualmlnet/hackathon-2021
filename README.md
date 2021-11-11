@@ -10,6 +10,8 @@ Welcome to the 2021 Virtual ML .NET Hackathon!
 - [Join the Virtual ML.NET Hackathon Discord channel](https://aka.ms/mlnet-hackathon-discord). This will be the main form of direct communication. 
 - [Create a project](https://github.com/virtualmlnet/hackathon-2021/issues/new?assignees=&labels=&template=idea.md&title=ML.NET+Hackathon+Idea)
 
+This year, we're not having 
+
 ## Schedule
 
 To accomodate different locations, this year we'll have two kickoff streams:
@@ -27,7 +29,7 @@ To accomodate different locations, this year we'll have two kickoff streams:
 ## Stream Links
 
 - [Twitch](https://www.twitch.tv/virtualmlnet)
-- [YouTube](https://youtu.be/I3tpA9t5e5w)
+- [YouTube](https://www.youtube.com/channel/UClv1sloNF4mzWQiQbemHXRw)
 
 ## <a id="create-project"></a> Create a project
 
