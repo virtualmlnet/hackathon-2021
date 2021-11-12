@@ -51,6 +51,7 @@ For final project submissions, send a pull request in the Submissions folder wit
 - [Datasets](datasets.md)
 - [Project ideas](project-ideas.md)
 - [Frequently asked questions (FAQs)](FAQ.md)
+- [ML.NET Docs](https://docs.microsoft.com/dotnet/machine-learning/)
 - [ML.NET Samples](https://github.com/dotnet/machinelearning-samples)
 - [ML.NET Workshop](https://aka.ms/mlnet-workshop-content)
 
