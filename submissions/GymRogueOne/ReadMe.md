@@ -14,7 +14,7 @@ For PoC, we use [GymGodot](https://github.com/HugoTini/GymGodot), which comes wi
 
 - First we need to train and create RL model in our chosen OS: Windows.
 
-  - The provided solution runs only in Linux and the RL training is done through the provided python scripts (learn.py). It took some hacking of these scripts to make them run in Windows.
+  - The provided solution runs only in Linux and the RL training is done through the provided python scripts (e.g. learn.py). It took some hacking of these scripts to make them run in Windows.
 
 - Second, the python server is replaced with a .NET Web Socket server using the same messaging interface as that provided by the python RL server.
 
