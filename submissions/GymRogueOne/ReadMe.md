@@ -33,9 +33,9 @@ Figure 2: GymRogueOne implementation involves **one** single application
 For questions on this submission you can contact: Jim SEOW: JimFFM@outlook.com
 
 Team members
-- [Jim SEOW](github.com/JimFFM)
-- [Shehroze Malik](github.com/shehrozeee) => who did most of the coding
-- [Praveen Raghuvanshi](github.com/praveenraghuvanshi)
+- [Jim SEOW](https://github.com/JimFFM)
+- [Shehroze Malik](https://github.com/shehrozeee) => who did most of the coding
+- [Praveen Raghuvanshi](https://github.com/praveenraghuvanshi)
 
 ## Solution
 
