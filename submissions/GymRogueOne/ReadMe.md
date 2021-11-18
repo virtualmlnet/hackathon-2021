@@ -3,11 +3,14 @@
 ## Idea
 Our aim is to provide a workflow from PyTorch OpenAI Gym [reinforcement learning (RL)] to ML.NET. OpenAI Gym is a popular toolkit for developing and comparing reinforcement learning algorithms. Our approach is to export ONNX from a trained python RL openAI gym model and use ML.NET  to consume that ONNX.
 
-We use Godot as our 3D engine. So far, only a few attempts of developing RL using Godot. Almost all of them involves Godot as a client communicating to a python server running the RL service.
+We use Godot as our 3D engine. So far, only a few attempts of developing RL using Godot. Almost all of them involves Godot as a client communicating to a **python server** running the RL service.
 
 For PoC, we use [GymGodot](https://github.com/HugoTini/GymGodot), which comes with an interesting [mars landing example](https://github.com/HugoTini/GymGodot/blob/main/gym-godot/examples/mars_lander/mars_lander.md)
 
-Our challenge is to do RL in Godot without involving a python server.
+## Challenge
+**Our challenge** is to do RL in Godot using ML.NET  **without using a any server**.
+
+![image](https://user-images.githubusercontent.com/49812372/142351131-c5cd4a00-a0bd-4ee5-bc89-e86975011e65.png)
 
 - First we need to train and create RL model in our chosen OS: Windows.
 
