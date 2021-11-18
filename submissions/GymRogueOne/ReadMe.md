@@ -47,3 +47,7 @@ Landing SpaceX Startship on Mars using OpenAI Gym reinforcement learning provide
 
 
 ![uzYkLCgQH1](https://user-images.githubusercontent.com/49812372/142352894-265045b1-69ec-4b7e-b8df-ece0b3dd408a.gif)
+
+## PowerPoint 
+
+https://github.com/JimFFM/ml-hackathon-2021/blob/main/Doc/mlnet_findings.pptx
