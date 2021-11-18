@@ -24,7 +24,7 @@ Figure 2: GymRogueOne implementation involves **one** single application
 
 - Second, the python server is replaced with a .NET Web Socket server using the same messaging interface as that provided by the python RL server.
 
-   - The trained PyTorch RL model is [exported to ONNX](https://stable-baselines3.readthedocs.io/en/master/guide/export.html)
+   - The trained PyTorch RL model is [exported to ONNX](https://stable-baselines3.readthedocs.io/en/master/guide/export.html) using the following [codes](https://github.com/JimFFM/ml-hackathon-2021/blob/main/PyTorchTrainingONNXExport/Readme_ExportOnnx.md)
    - ML.NET  consumes the ONNX and provide the RL inference service of the server.
    
 - Third, the provided GymGodot's rocket model is replaced with [a SpaceX Starship model](https://skfb.ly/6QWPo) by MartianDays under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
