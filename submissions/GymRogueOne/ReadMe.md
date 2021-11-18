@@ -27,7 +27,7 @@ Figure 2: GymRogueOne implementation involves **one** single application
    - The trained PyTorch RL model is [exported to ONNX](https://stable-baselines3.readthedocs.io/en/master/guide/export.html)
    - ML.NET  consumes the ONNX and provide the RL inference service of the server.
    
-- Third, the provided GymGodot's rocket model is replaced with a [SpaceX Starship model]((https://skfb.ly/6QWPo)) by MartianDays under [Creative Commons Attribution]((http://creativecommons.org/licenses/by/4.0/).)
+- Third, the provided GymGodot's rocket model is replaced with [a SpaceX Starship model](https://skfb.ly/6QWPo) by MartianDays under [Creative Commons Attribution]((http://creativecommons.org/licenses/by/4.0/)
 
 ## Team contact
 For questions on this submission you can contact: Jim SEOW: JimFFM@outlook.com
