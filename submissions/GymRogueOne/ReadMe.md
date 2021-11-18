@@ -40,3 +40,10 @@ Team members
 ## Solution
 
 Full Sorce Code: https://github.com/JimFFM/ml-hackathon-2021/
+
+## Video
+
+Landing SpaceX Startship on Mars using OpenAI Gym reinforcement learning provided through ML.NET
+
+
+![uzYkLCgQH1](https://user-images.githubusercontent.com/49812372/142352894-265045b1-69ec-4b7e-b8df-ece0b3dd408a.gif)
