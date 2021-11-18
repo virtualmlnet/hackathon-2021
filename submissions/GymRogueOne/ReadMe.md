@@ -7,9 +7,15 @@ We use Godot as our 3D engine. So far, only a few attempts of developing RL usin
 
 For PoC, we use [GymGodot](https://github.com/HugoTini/GymGodot), which comes with an interesting [mars landing example](https://github.com/HugoTini/GymGodot/blob/main/gym-godot/examples/mars_lander/mars_lander.md)
 
+Figure 1: GymGodot involves godot as client with a python server serving RL
+
+![image](https://user-images.githubusercontent.com/49812372/142352433-77ee5cf1-a502-485a-a7d5-c6d16daaa114.png)
+
+
 ## Challenge
 **Our challenge** is to do RL in Godot using ML.NET as inference engine **without using any (python/.NET) server**.
 
+Figure 2: GymRogueOne implementation involves **one** single application
 ![image](https://user-images.githubusercontent.com/49812372/142351131-c5cd4a00-a0bd-4ee5-bc89-e86975011e65.png)
 
 - First we need to train and create RL model in our chosen OS: Windows.
