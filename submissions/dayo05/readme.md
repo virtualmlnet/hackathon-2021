@@ -44,3 +44,5 @@ Console.WriteLine($"Test batch Count: {test.Count}");
 This is example for calling my dataloader, It is similar as what pytorch does.
 
 ## Thank you everyone, My project is just start, I'll keep going studying about it and In next year, I'll make more better project on this hackertoon :D
+
+ps. I'm learning about VGG models, in now, my model is not working but I'll make that works fine soon!
